@@ -1,10 +1,13 @@
 /target/*
 /test-output/*
 /target
-.idea
+# .idea/workspace.xml
+# .idea/encodings.xml
+# .idea/misc.xml
+# .idea/inspectionProfiles
+# .idea/profiles_settings.xml
+# .idea/profiles_settings.xml
 
-univocity-parsers.iml
-univocity-parsers.ipr
-univocity-parsers.iws
 
 .DS_STORE
+/out
