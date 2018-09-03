@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.univocity:univocity-output-tester:2.1" type="repository">
+    <properties maven-id="com.univocity:univocity-output-tester:2.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/univocity/univocity-output-tester/2.1/univocity-output-tester-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/univocity/univocity-output-tester/2.1/univocity-output-tester-2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/univocity/univocity-output-tester/2.1/univocity-output-tester-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
