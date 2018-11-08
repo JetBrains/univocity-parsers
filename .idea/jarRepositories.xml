@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="RemoteRepositoriesConfiguration">
+        <remote-repository>
+            <option name="id" value="central-proxy" />
+            <option name="name" value="Maven Central Proxy" />
+            <option name="url" value="https://cache-redirector.jetbrains.com/maven-central" />
+        </remote-repository>
+    </component>
+    <remote-repository>
+        <option name="id" value="central" />
+        <option name="name" value="Maven Central repository" />
+        <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+</project>
