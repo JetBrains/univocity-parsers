@@ -131,6 +131,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="168" width="760" height="375" key="DiffContextDialog" timestamp="1571065611021">
+      <screen x="51" y="27" width="1229" height="692" />
+    </state>
+    <state x="243" y="168" width="760" height="375" key="DiffContextDialog/51.27.1229.692@51.27.1229.692" timestamp="1571065611021" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
